@@ -7,9 +7,8 @@ Dessa forma, o dashboard pode ser usado para diferentes finalidades como:
 - Análise de notas escolares
 - Controle de despesas com nome + valor
 - Avaliações por usuário
-- E muito mais!
 
-Sinta-se à vontade para adaptar o projeto aos seus próprios dados. 😉
+Sinta-se à vontade para adaptar o projeto aos seus próprios dados.
 
 ---
 
