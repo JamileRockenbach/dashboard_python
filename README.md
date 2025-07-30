@@ -1,4 +1,4 @@
-### Mini Dashboard de Dados com Python 📊
+### 📊 Mini Dashboard de Dados com Python
 
 Projeto desenvolvido com o objetivo de praticar e demonstrar habilidades com **Python**, **Tkinter**, **pandas** e **matplotlib**, criando uma aplicação que permite visualizar e analisar dados contidos em arquivos `.csv` de forma interativa e intuitiva.
 Você pode utilizar qualquer arquivo `.csv` personalizado, desde que contenha as colunas `nome` e `nota`.  
@@ -62,8 +62,7 @@ Este dashboard é resultado de muito estudo, esforço e carinho. 💙
 
 ## Desenvolvido por 💻
 
-Jamile Rockenbach Ferreira, estudante de Ciência da Computação apaixonada por tecnologia, dados e por criar coisas que tenham impacto real 💜
-Este projeto foi um desafio pessoal para aplicar, aprender e mostrar o que sou capaz de desenvolver com Python.
+Jamile Rockenbach Ferreira, estudante de Ciência da Computação apaixonada por tecnologia, dados e por criar coisas que tenham impacto real! Este projeto foi um desafio pessoal para aplicar, aprender e mostrar o que sou capaz de desenvolver com Python.
 
 ---
 
