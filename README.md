@@ -16,7 +16,7 @@ Sinta-se à vontade para adaptar o projeto aos seus próprios dados. 😉
 ## Objetivo do Projeto 🎯
 
 Durante as férias, decidi unir prática e aprendizado em um projeto que representasse meu crescimento com Python.  
-A ideia era criar algo útil, funcional e com uma interface amigável — e que fosse além do terminal.
+A ideia era criar algo útil, funcional e com uma interface amigável e que fosse além do terminal.
 Este dashboard é resultado de muito estudo, esforço e carinho. 💙
 
 ---
