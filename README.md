@@ -16,7 +16,6 @@ Sinta-se à vontade para adaptar o projeto aos seus próprios dados.
 
 Durante as férias, decidi unir prática e aprendizado em um projeto que representasse meu crescimento com Python.  
 A ideia era criar algo útil, funcional e com uma interface amigável e que fosse além do terminal.
-Este dashboard é resultado de muito estudo, esforço e carinho. 💙
 
 ---
 
@@ -34,10 +33,6 @@ Este dashboard é resultado de muito estudo, esforço e carinho. 💙
   - Diagrama de Dispersão
   - Box Plot
   - Gráfico de Pizza
-- 🎨 Interface Tkinter estilizada:
-  - Fundo personalizado
-  - Ícone na janela
-  - Botões com hover
 
 ---
 
@@ -61,7 +56,7 @@ Este dashboard é resultado de muito estudo, esforço e carinho. 💙
 
 ## Desenvolvido por 💻
 
-Jamile Rockenbach Ferreira, estudante de Ciência da Computação apaixonada por tecnologia, dados e por criar coisas que tenham impacto real! Este projeto foi um desafio pessoal para aplicar, aprender e mostrar o que sou capaz de desenvolver com Python.
+Jamile Rockenbach Ferreira, estudante de Ciência da Computação apaixonada por tecnologia, dados e por criar coisas que tenham impacto real.
 
 ---
 
